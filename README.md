@@ -1,5 +1,6 @@
 # StreetMapping
 Grace Zheng & Dung Le
+
 How the program works:
 - the program takes in the command lines in the terminal:
 	+ If there is only '--show' in the command line: create a GUI variable and plot the graph
